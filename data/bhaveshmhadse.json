@@ -1,0 +1,37 @@
+{
+  "name": "Bhavesh Mhadse",
+  "bio": "Leetcode 300+ | Codewars 4kyu | IT | FullStack Developer | Trying out Open-Source ",
+  "tags": ["Open Source", "Javascript", "Python", "Web Development", "Frontend", "NextJs", "Problem Solving"],
+  "socials": [
+    {
+      "icon": "FaGithub",
+      "url": "https://github.com/bhaveshmhadse"
+    },
+    {
+      "icon": "FaLinkedin",
+      "url": "https://www.linkedin.com/in/bhaveshmhadse/"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/bhaaaavesh__/",
+      "icon": "FaInstagram"
+    }
+  ],
+  "links": [
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/bhaveshmhadse/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Github: Have a look at the projects!",
+      "url": "https://github.com/bhaveshmhadse",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/bhaaaavesh__/",
+      "icon": "FaInstagram"
+    }
+  ],
+}
